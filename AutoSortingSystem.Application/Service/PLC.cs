@@ -14,7 +14,7 @@ namespace AutoSortingSystem.Application.Service
 
         protected PLC()
         {
-
+            //test
         }
 
         private static PLC _instance;
