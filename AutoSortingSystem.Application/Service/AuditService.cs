@@ -42,7 +42,7 @@ namespace AutoSortingSystem.Application.Service
             }
             catch
             {
-
+                //test
             }
         }
 
